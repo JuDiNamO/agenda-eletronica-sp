@@ -49,6 +49,6 @@ jobs:
             echo "O calendário não mudou; nenhuma alteração para registrar."
           else
             git commit -m "Atualiza feed de festas SP"
-            git pull --rebase origin main
+            git pull --rebase -X theirs origin main
             git push
           fi
