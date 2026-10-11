@@ -156,6 +156,34 @@ def test_scraper_excludes_events_that_already_started_today(monkeypatch, tmp_pat
     assert [event.title for event in events] == ["Festa futura"]
 
 
+def test_scraper_does_not_restore_city_suffix_from_old_feed(monkeypatch, tmp_path):
+    target = tmp_path / "agenda-eletronica-sp.ics"
+    old_event = bc.Event(
+        "Under Division apresenta Vendex São Paulo-SP",
+        date(2026, 10, 17),
+        22,
+        0,
+        "São Paulo-SP",
+        "https://www.sympla.com.br/evento/teste/",
+    )
+    bc.write_feed_atomically(bc.build_ics([old_event]), target)
+    monkeypatch.setattr(bc, "OUTPUT_PATH", target)
+    html = """
+      <html><body>
+      <h2>sábado, 17 de outubro de 2026</h2>
+      <a href="https://www.sympla.com.br/evento/teste/">Under Division apresenta Vendex São Paulo-SP 17 de outubro às 22h</a>
+      <div>""" + ("conteúdo extra " * 100) + """</div>
+      </body></html>
+    """
+    response = SimpleNamespace(text=html, raise_for_status=lambda: None)
+    monkeypatch.setattr(bc.requests, "get", lambda *args, **kwargs: response)
+    now = datetime(2026, 10, 11, 17, 0, tzinfo=bc.TZ)
+    events = bc.scrape_events(now=now)
+    assert len(events) == 1
+    assert events[0].title == "Under Division apresenta Vendex"
+    assert events[0].location == "São Paulo-SP"
+
+
 def test_atomic_writer_replaces_feed_without_leaving_temporary_files(tmp_path):
     target = tmp_path / "agenda-eletronica-sp.ics"
     target.write_text("versão antiga", encoding="utf-8")
