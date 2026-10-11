@@ -45,6 +45,19 @@ def test_parse_anchor_splits_known_venue_from_plain_text():
     assert event.location == "Crema Club, São Paulo-SP"
 
 
+def test_parse_anchor_recognizes_city_without_pipe_and_keeps_title_clean():
+    soup = BeautifulSoup(
+        '<a href="https://www.sympla.com.br/evento/teste/">'
+        'Under Division apresenta Vendex São Paulo-SP 17 de outubro às 22h'
+        '</a>',
+        "html.parser",
+    )
+    event = bc.parse_anchor(soup.a, date(2026, 10, 17))
+    assert event is not None
+    assert event.title == "Under Division apresenta Vendex"
+    assert event.location == "São Paulo-SP"
+
+
 @pytest.mark.parametrize("hour_text", ["às 24h", "às 25h", "às 23h61"])
 def test_parse_anchor_rejects_invalid_times(hour_text):
     soup = BeautifulSoup(
