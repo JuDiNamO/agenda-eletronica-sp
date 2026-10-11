@@ -224,10 +224,19 @@ def test_checked_in_feed_is_valid_and_has_unique_events():
         assert event.get("UID")
         assert event.get("DTSTAMP")
         assert event.get("SUMMARY")
+        summary = event.decoded("SUMMARY")
+        if isinstance(summary, bytes):
+            summary = summary.decode("utf-8")
+        # City suffixes belong in LOCATION, never at the end of the event title.
+        assert not any(str(summary).endswith(f" {city}-SP") for city in bc.SP_CITIES)
         assert event.get("DTSTART")
         start = event.decoded("DTSTART")
         assert isinstance(start, datetime)
         assert start.tzinfo is not None
+        location = event.decoded("LOCATION")
+        if isinstance(location, bytes):
+            location = location.decode("utf-8")
+        assert str(location).endswith("-SP")
         url = str(event.get("URL"))
         assert url.startswith("https://")
         description = event.decoded("DESCRIPTION")
