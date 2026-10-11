@@ -250,9 +250,12 @@ def scrape_events(now: datetime | date | None = None) -> list[Event]:
         ) >= reference_time:
             cached = existing_context.get(event.ticket_url.rstrip("/"))
             if cached:
-                city_only = "," not in event.location
+                # Do not resurrect a stale title if it incorrectly ends with a city suffix.
+                cached_title_has_city = CITY_SUFFIX.search(cached[0]) is not None
+                city_only = "," not in event.location and not cached_title_has_city
                 partial_title = (
-                    event.location == cached[1]
+                    not cached_title_has_city
+                    and event.location == cached[1]
                     and event.title.casefold() != cached[0].casefold()
                     and event.title.casefold() in cached[0].casefold()
                 )
