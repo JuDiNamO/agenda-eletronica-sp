@@ -29,3 +29,5 @@ python -m ruff check build_calendar.py tests
 ```
 
 Para uma atualização manual, abra **Actions → Atualizar calendário da Agenda Eletrônica SP → Run workflow**. O resultado e os logs ficam disponíveis no histórico de execuções.
+
+Última revisão de manutenção: gerador, testes, análise estática e atualização diária são executados pelo workflow do GitHub Actions.
