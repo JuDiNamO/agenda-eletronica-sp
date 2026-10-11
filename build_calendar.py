@@ -39,7 +39,16 @@ DATETIME_SUFFIX = re.compile(
     r"\s+\d{1,2}\s+de\s+[a-zçãéêô]+\s+às\s+\d{1,2}h\d{0,2}\s*$",
     re.IGNORECASE,
 )
-CITY_SUFFIX = re.compile(r"\s*\|\s*(?P<city>[^|]+?-SP)\s*$", re.IGNORECASE)
+SP_CITIES = [
+    "São José dos Campos", "São Sebastião", "Nazaré Paulista", "Pirassununga",
+    "Mairiporã", "São Paulo", "Campinas", "Valinhos", "Ubatuba", "Sorocaba",
+    "Ilhabela", "Guarujá", "Sumaré", "Cotia", "Itirapina", "Piedade",
+]
+CITY_NAMES_PATTERN = "|".join(re.escape(city) for city in sorted(SP_CITIES, key=len, reverse=True))
+CITY_SUFFIX = re.compile(
+    rf"\\s*(?:\\|\\s*)?(?P<city>(?:{CITY_NAMES_PATTERN})-SP)\\s*$",
+    re.IGNORECASE,
+)
 KNOWN_VENUES = [
     "Crema Club", "Dr Banana Club", "Home Club", "Le Club", "Ephigenia",
     "Mansão Morumbi", "Sonora Garden", "CAOS", "AME Club", "Cafe de La Musique",
@@ -86,7 +95,7 @@ def is_time_or_location_piece(value: str) -> bool:
         not value or value in {"|", "—", "–", "-"}
         or bool(TIME_SUFFIX.search(value))
         or bool(re.search(r"\b\d{1,2}\s+de\s+[a-zçãéêô]+\s+às\s+\d{1,2}h", value, re.IGNORECASE))
-        or bool(re.search(r"(?:RJ|Rio de Janeiro)\s*$", value, re.IGNORECASE))
+        or bool(re.search(r"(?:SP|São Paulo)\s*$", value, re.IGNORECASE))
     )
 
 
