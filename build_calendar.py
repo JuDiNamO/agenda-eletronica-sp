@@ -46,7 +46,7 @@ SP_CITIES = [
 ]
 CITY_NAMES_PATTERN = "|".join(re.escape(city) for city in sorted(SP_CITIES, key=len, reverse=True))
 CITY_SUFFIX = re.compile(
-    rf"\\s*(?:\\|\\s*)?(?P<city>(?:{CITY_NAMES_PATTERN})-SP)\\s*$",
+    rf"\s*(?:\|\s*)?(?P<city>(?:{CITY_NAMES_PATTERN})-SP)\s*$",
     re.IGNORECASE,
 )
 KNOWN_VENUES = [
