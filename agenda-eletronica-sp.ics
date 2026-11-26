@@ -7,8 +7,8 @@ X-WR-CALNAME:Agenda Eletrônica SP — festas e ingressos
 X-WR-TIMEZONE:America/Sao_Paulo
 BEGIN:VEVENT
 UID:916ec429ce2cf4dcb03e31dc@agendaeletronica-sp
-DTSTAMP:20261122T152722Z
-LAST-MODIFIED:20261122T152722Z
+DTSTAMP:20261126T174651Z
+LAST-MODIFIED:20261126T174651Z
 DTSTART:20261127T010000Z
 SUMMARY:D-EDGE SP | Moving | Dogghauz Showcase D-EDGE
 LOCATION:São Paulo-SP
@@ -17,9 +17,55 @@ DESCRIPTION:Compra de ingressos: https://ingresse.com/moving261126/\nAgenda
 URL:https://ingresse.com/moving261126/
 END:VEVENT
 BEGIN:VEVENT
+UID:204cf8d9767adf5f39896d88@agendaeletronica-sp
+DTSTAMP:20261126T174651Z
+LAST-MODIFIED:20261126T174651Z
+DTSTART:20261127T230000Z
+SUMMARY:Stereo Club Night | Zopelar\, Akin Deckard e MAG A.TELA
+LOCATION:São Paulo-SP
+DESCRIPTION:Compra de ingressos: https://shotgun.live/pt-br/events/stereo-c
+ lub-night\nAgenda de origem: https://agendaeletronica.com.br/
+URL:https://shotgun.live/pt-br/events/stereo-club-night
+END:VEVENT
+BEGIN:VEVENT
+UID:e4e47cc27153bfef93b5d8c4@agendaeletronica-sp
+DTSTAMP:20261126T174651Z
+LAST-MODIFIED:20261126T174651Z
+DTSTART:20261128T000000Z
+SUMMARY:Crema Club | Apollorabbit\, Jack Rosset e XAV
+LOCATION:Crema Club\, São Paulo-SP
+DESCRIPTION:Compra de ingressos: https://www.ingresse.com/crema-club-27-11/
+ \nAgenda de origem: https://agendaeletronica.com.br/
+URL:https://www.ingresse.com/crema-club-27-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:7f5f008695e8e344d3d6a7ab@agendaeletronica-sp
+DTSTAMP:20261126T174651Z
+LAST-MODIFIED:20261126T174651Z
+DTSTART:20261128T010000Z
+SUMMARY:Peel Slowly | Prescrição #0048
+LOCATION:Dr Banana Club\, São Paulo-SP
+DESCRIPTION:Compra de ingressos: https://shotgun.live/pt-br/events/peel-slo
+ wly-and-dance-dr-banana-club-prescricao-0048\nAgenda de origem: https://ag
+ endaeletronica.com.br/
+URL:https://shotgun.live/pt-br/events/peel-slowly-and-dance-dr-banana-club-
+ prescricao-0048
+END:VEVENT
+BEGIN:VEVENT
+UID:abdf1991ce883ed74aac5935@agendaeletronica-sp
+DTSTAMP:20261126T174651Z
+LAST-MODIFIED:20261126T174651Z
+DTSTART:20261128T020000Z
+SUMMARY:Bassxtasy | 1ª Edição
+LOCATION:São Paulo-SP
+DESCRIPTION:Compra de ingressos: https://shotgun.live/pt-br/events/bassxtas
+ y\nAgenda de origem: https://agendaeletronica.com.br/
+URL:https://shotgun.live/pt-br/events/bassxtasy
+END:VEVENT
+BEGIN:VEVENT
 UID:3a8bb79667aa97f8b9d90f0b@agendaeletronica-sp
-DTSTAMP:20261122T152722Z
-LAST-MODIFIED:20261122T152722Z
+DTSTAMP:20261126T174651Z
+LAST-MODIFIED:20261126T174651Z
 DTSTART:20261128T025900Z
 SUMMARY:D-EDGE SP | Freak Chic | Cesare vs Disorder\, Sublee e Botanic Soun
  dsystem D-EDGE
@@ -30,8 +76,8 @@ URL:https://ingresse.com/freak271126/
 END:VEVENT
 BEGIN:VEVENT
 UID:cdb690a63b5d5afee9c9c9a8@agendaeletronica-sp
-DTSTAMP:20261122T152722Z
-LAST-MODIFIED:20261122T152722Z
+DTSTAMP:20261126T174651Z
+LAST-MODIFIED:20261126T174651Z
 DTSTART:20261128T170000Z
 SUMMARY:MICHAEL BIBI presents ONE LIFE SÃO PAULO
 LOCATION:Centro de Eventos - Arena Pinheiros\, São Paulo-SP
@@ -41,8 +87,8 @@ URL:https://ingresse.com/onelife
 END:VEVENT
 BEGIN:VEVENT
 UID:3672c00df5f5a1beea3a15d9@agendaeletronica-sp
-DTSTAMP:20261122T152722Z
-LAST-MODIFIED:20261122T152722Z
+DTSTAMP:20261126T174651Z
+LAST-MODIFIED:20261126T174651Z
 DTSTART:20261128T210000Z
 SUMMARY:Psy Festival — Gênesis Chácara Frezzarin
 LOCATION:Sumaré-SP
@@ -53,9 +99,43 @@ URL:https://ticketimediato.com/product/details/psy-festival---genesis.html?
  productId=14639
 END:VEVENT
 BEGIN:VEVENT
+UID:d36c9c75b375999001e9b3d3@agendaeletronica-sp
+DTSTAMP:20261126T174651Z
+LAST-MODIFIED:20261126T174651Z
+DTSTART:20261129T000000Z
+SUMMARY:Cardume Verano
+LOCATION:São Paulo-SP
+DESCRIPTION:Compra de ingressos: https://shotgun.live/pt-br/events/cardume-
+ verano-27\nAgenda de origem: https://agendaeletronica.com.br/
+URL:https://shotgun.live/pt-br/events/cardume-verano-27
+END:VEVENT
+BEGIN:VEVENT
+UID:a10e2864f2538d0d1879a862@agendaeletronica-sp
+DTSTAMP:20261126T174651Z
+LAST-MODIFIED:20261126T174651Z
+DTSTART:20261129T000000Z
+SUMMARY:Carlos Capslock | Entra Numas de Ta Gravando??? Barraco SP/CO
+LOCATION:São Paulo-SP
+DESCRIPTION:Compra de ingressos: https://www.ingresse.com/carlos-capslock-e
+ ntra-numas-de-ta-gravando/\nAgenda de origem: https://agendaeletronica.com
+ .br/
+URL:https://www.ingresse.com/carlos-capslock-entra-numas-de-ta-gravando/
+END:VEVENT
+BEGIN:VEVENT
+UID:e4d1c93eefe79b2604f93c2c@agendaeletronica-sp
+DTSTAMP:20261126T174651Z
+LAST-MODIFIED:20261126T174651Z
+DTSTART:20261129T000000Z
+SUMMARY:Crema Club | D.Marco e Etcetera
+LOCATION:Crema Club\, São Paulo-SP
+DESCRIPTION:Compra de ingressos: https://www.ingresse.com/crema-club-28-11-
+ 26/\nAgenda de origem: https://agendaeletronica.com.br/
+URL:https://www.ingresse.com/crema-club-28-11-26/
+END:VEVENT
+BEGIN:VEVENT
 UID:9600b07a82d40fd57078bc7b@agendaeletronica-sp
-DTSTAMP:20261122T152722Z
-LAST-MODIFIED:20261122T152722Z
+DTSTAMP:20261126T174651Z
+LAST-MODIFIED:20261126T174651Z
 DTSTART:20261129T000000Z
 SUMMARY:Over Night 38 anos | Turbo B e DJs Juventus Live Hall
 LOCATION:São Paulo-SP
@@ -66,9 +146,20 @@ URL:https://www.ticket360.com.br/evento/33818/ingressos-para-festa-38-anos-
  overnight-com-turbo-b-e-djs
 END:VEVENT
 BEGIN:VEVENT
+UID:5fd17301dc599b25cccd9da7@agendaeletronica-sp
+DTSTAMP:20261126T174651Z
+LAST-MODIFIED:20261126T174651Z
+DTSTART:20261129T020000Z
+SUMMARY:Wav3 + Boli
+LOCATION:Home Club\, São Paulo-SP
+DESCRIPTION:Compra de ingressos: https://shotgun.live/pt-br/events/28-11-wa
+ v-3-bo-li\nAgenda de origem: https://agendaeletronica.com.br/
+URL:https://shotgun.live/pt-br/events/28-11-wav-3-bo-li
+END:VEVENT
+BEGIN:VEVENT
 UID:ba2aa8ff7084e0db123a29a4@agendaeletronica-sp
-DTSTAMP:20261122T152722Z
-LAST-MODIFIED:20261122T152722Z
+DTSTAMP:20261126T174651Z
+LAST-MODIFIED:20261126T174651Z
 DTSTART:20261129T025900Z
 SUMMARY:D-EDGE SP | NAVE | Amine Edge\, Ragie Ban e Bapp D-EDGE
 LOCATION:São Paulo-SP
@@ -78,8 +169,8 @@ URL:https://ingresse.com/nave281126/
 END:VEVENT
 BEGIN:VEVENT
 UID:5da4ce2a94d92fd934fccad2@agendaeletronica-sp
-DTSTAMP:20261122T152722Z
-LAST-MODIFIED:20261122T152722Z
+DTSTAMP:20261126T174651Z
+LAST-MODIFIED:20261126T174651Z
 DTSTART:20261129T080000Z
 SUMMARY:D-EDGE SP | SuperAfter | Diogo Accioly e Stereo D-EDGE
 LOCATION:São Paulo-SP
@@ -88,9 +179,21 @@ DESCRIPTION:Compra de ingressos: https://ingresse.com/superafter291126/\nAg
 URL:https://ingresse.com/superafter291126/
 END:VEVENT
 BEGIN:VEVENT
+UID:1e250a28044712a6a8d05cde@agendaeletronica-sp
+DTSTAMP:20261126T174651Z
+LAST-MODIFIED:20261126T174651Z
+DTSTART:20261205T010000Z
+SUMMARY:Bituca 3 Anos | Zopelar e Bida Sarô A.TELA
+LOCATION:São Paulo-SP
+DESCRIPTION:Compra de ingressos: https://shotgun.live/events/bituca-3-anos-
+ com-zopelar-e-bida-saro\nAgenda de origem: https://agendaeletronica.com.br
+ /
+URL:https://shotgun.live/events/bituca-3-anos-com-zopelar-e-bida-saro
+END:VEVENT
+BEGIN:VEVENT
 UID:db1e4f719ab66b0513ba91e7@agendaeletronica-sp
-DTSTAMP:20261122T152722Z
-LAST-MODIFIED:20261122T152722Z
+DTSTAMP:20261126T174651Z
+LAST-MODIFIED:20261126T174651Z
 DTSTART:20261205T010000Z
 SUMMARY:Desconto Baile Profano | Arabian Night Cineclube Cortina
 LOCATION:São Paulo-SP
@@ -102,8 +205,8 @@ URL:https://www.sympla.com.br/evento/baile-profano-0412--cortina/3650819?d=
 END:VEVENT
 BEGIN:VEVENT
 UID:e3db0b232d2c327a075fd462@agendaeletronica-sp
-DTSTAMP:20261122T152722Z
-LAST-MODIFIED:20261122T152722Z
+DTSTAMP:20261126T174651Z
+LAST-MODIFIED:20261126T174651Z
 DTSTART:20261205T153000Z
 SUMMARY:Primavera Sound São Paulo - 2026
 LOCATION:Autódromo de Interlagos\, São Paulo-SP
@@ -113,8 +216,8 @@ URL:https://ingresse.com/primavera-sound-sp-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:6727790827353990877965af@agendaeletronica-sp
-DTSTAMP:20261122T152722Z
-LAST-MODIFIED:20261122T152722Z
+DTSTAMP:20261126T174651Z
+LAST-MODIFIED:20261126T174651Z
 DTSTART:20261205T190000Z
 SUMMARY:Laroc Guarujá | Green Velvet Laroc Guarujá
 LOCATION:Guarujá-SP
@@ -124,8 +227,8 @@ URL:https://ingresse.com/laroc-guaruja-apresenta-green-velvet/
 END:VEVENT
 BEGIN:VEVENT
 UID:fc288616bdbbfc6fa41d5ac3@agendaeletronica-sp
-DTSTAMP:20261122T152722Z
-LAST-MODIFIED:20261122T152722Z
+DTSTAMP:20261126T174651Z
+LAST-MODIFIED:20261126T174651Z
 DTSTART:20261205T220000Z
 SUMMARY:DNA - São Paulo
 LOCATION:Aeródromo Nascimento\, Cotia-SP
@@ -134,9 +237,22 @@ DESCRIPTION:Compra de ingressos: https://www.guicheweb.com.br/dna-sao-paulo
 URL:https://www.guicheweb.com.br/dna-sao-paulo_52453/18246
 END:VEVENT
 BEGIN:VEVENT
+UID:7908b060f34f0138cde11968@agendaeletronica-sp
+DTSTAMP:20261126T174651Z
+LAST-MODIFIED:20261126T174651Z
+DTSTART:20261205T230000Z
+SUMMARY:CAOS | Len Faki
+LOCATION:CAOS\, Campinas-SP
+DESCRIPTION:Compra de ingressos: https://ticketimediato.com/product/details
+ /09-anos-de-caos-com-len-faki.html?eventId=16229\nAgenda de origem: https:
+ //agendaeletronica.com.br/
+URL:https://ticketimediato.com/product/details/09-anos-de-caos-com-len-faki
+ .html?eventId=16229
+END:VEVENT
+BEGIN:VEVENT
 UID:460595e8064c0ba503de2de3@agendaeletronica-sp
-DTSTAMP:20261122T152722Z
-LAST-MODIFIED:20261122T152722Z
+DTSTAMP:20261126T174651Z
+LAST-MODIFIED:20261126T174651Z
 DTSTART:20261211T230000Z
 SUMMARY:28 Hours Hotel Estância Nazaré Paulista
 LOCATION:Nazaré Paulista-SP
@@ -146,8 +262,8 @@ URL:https://zig.tickets/eventos/28-hours-trance-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:adbcc70fb6becd7df880139a@agendaeletronica-sp
-DTSTAMP:20261122T152722Z
-LAST-MODIFIED:20261122T152722Z
+DTSTAMP:20261126T174651Z
+LAST-MODIFIED:20261126T174651Z
 DTSTART:20261211T230000Z
 SUMMARY:Desconto Todayland Nexus
 LOCATION:Komplexo Tempo\, São Paulo-SP
@@ -159,8 +275,8 @@ URL:https://cart.ingresse.com/80190c43-ea53-4da2-9c7c-d81ed081c391/tickets?
 END:VEVENT
 BEGIN:VEVENT
 UID:b50fefb2dccd9993e8e79ec1@agendaeletronica-sp
-DTSTAMP:20261122T152722Z
-LAST-MODIFIED:20261122T152722Z
+DTSTAMP:20261126T174651Z
+LAST-MODIFIED:20261126T174651Z
 DTSTART:20261212T010000Z
 SUMMARY:Desconto
 LOCATION:Complexo Canindé\, São Paulo-SP
@@ -172,8 +288,8 @@ URL:https://embedstore.ingresse.com/tickets/www.ingresse.com/event/105068?c
 END:VEVENT
 BEGIN:VEVENT
 UID:83c880b36eb0efa221802fdf@agendaeletronica-sp
-DTSTAMP:20261122T152722Z
-LAST-MODIFIED:20261122T152722Z
+DTSTAMP:20261126T174651Z
+LAST-MODIFIED:20261126T174651Z
 DTSTART:20261212T170000Z
 SUMMARY:Mandallah
 LOCATION:Fazenda Meia Lua\, Itirapina-SP
@@ -185,8 +301,8 @@ URL:https://ticketimediato.com/product/details/mandallah-21-anos.html?produ
 END:VEVENT
 BEGIN:VEVENT
 UID:d0c3280aceaf5b1e46b78dc0@agendaeletronica-sp
-DTSTAMP:20261122T152722Z
-LAST-MODIFIED:20261122T152722Z
+DTSTAMP:20261126T174651Z
+LAST-MODIFIED:20261126T174651Z
 DTSTART:20261213T010000Z
 SUMMARY:Under Division | 8 anos
 LOCATION:São Paulo-SP
@@ -196,8 +312,8 @@ URL:https://www.sympla.com.br/evento/under-division-8-anos/3622301
 END:VEVENT
 BEGIN:VEVENT
 UID:267dca6c9bea314021d02479@agendaeletronica-sp
-DTSTAMP:20261122T152722Z
-LAST-MODIFIED:20261122T152722Z
+DTSTAMP:20261126T174651Z
+LAST-MODIFIED:20261126T174651Z
 DTSTART:20261213T170000Z
 SUMMARY:Wade no CAOS
 LOCATION:CAOS\, Campinas-SP
@@ -209,8 +325,8 @@ URL:https://ticketimediato.com/product/details/caos-apresenta-wade.html?pro
 END:VEVENT
 BEGIN:VEVENT
 UID:008171ac070e01fc589aab4b@agendaeletronica-sp
-DTSTAMP:20261122T152722Z
-LAST-MODIFIED:20261122T152722Z
+DTSTAMP:20261126T174651Z
+LAST-MODIFIED:20261126T174651Z
 DTSTART:20261219T020000Z
 SUMMARY:HALŌ | São Paulo
 LOCATION:Komplexo Tempo\, São Paulo-SP
@@ -220,8 +336,8 @@ URL:https://shotgun.live/pt-br/events/halo-sao-paulo
 END:VEVENT
 BEGIN:VEVENT
 UID:dfd72431b99aa82f7b489ef3@agendaeletronica-sp
-DTSTAMP:20261122T152722Z
-LAST-MODIFIED:20261122T152722Z
+DTSTAMP:20261126T174651Z
+LAST-MODIFIED:20261126T174651Z
 DTSTART:20261219T170000Z
 SUMMARY:House Garden | dezembro
 LOCATION:Pier18 Lounge Club\, Piedade-SP
@@ -231,8 +347,8 @@ URL:https://www.ingresse.com/house-garden-19-12-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:26abdfb798176ae894d74af8@agendaeletronica-sp
-DTSTAMP:20261122T152722Z
-LAST-MODIFIED:20261122T152722Z
+DTSTAMP:20261126T174651Z
+LAST-MODIFIED:20261126T174651Z
 DTSTART:20261219T170000Z
 SUMMARY:Mundo Psicodélico Festival 2026:: São Paulo
 LOCATION::: São Paulo\, São Paulo-SP
@@ -241,9 +357,58 @@ DESCRIPTION:Compra de ingressos: https://ingresse.com/mundo-psicodelico-sao
 URL:https://ingresse.com/mundo-psicodelico-sao-paulo
 END:VEVENT
 BEGIN:VEVENT
+UID:e292523faa5ab5e0de759d64@agendaeletronica-sp
+DTSTAMP:20261126T174651Z
+LAST-MODIFIED:20261126T174651Z
+DTSTART:20261219T180000Z
+SUMMARY:Manas Session Santa Helena Eventos
+LOCATION:Mairiporã-SP
+DESCRIPTION:Compra de ingressos: https://www.santocartao.com.br/manas-sessi
+ on\nAgenda de origem: https://agendaeletronica.com.br/
+URL:https://www.santocartao.com.br/manas-session
+END:VEVENT
+BEGIN:VEVENT
+UID:279169c58155c9575e77da90@agendaeletronica-sp
+DTSTAMP:20261126T174651Z
+LAST-MODIFIED:20261126T174651Z
+DTSTART:20261219T230000Z
+SUMMARY:CAOS | IX c/ ANNA\, Curol\, Mila Journée\, Toma e Nuun
+LOCATION:CAOS\, Campinas-SP
+DESCRIPTION:Compra de ingressos: https://ticketimediato.com/product/details
+ /caos-apresenta-anna.html?eventId=16592\nAgenda de origem: https://agendae
+ letronica.com.br/
+URL:https://ticketimediato.com/product/details/caos-apresenta-anna.html?eve
+ ntId=16592
+END:VEVENT
+BEGIN:VEVENT
+UID:54016e839e39d281932057cd@agendaeletronica-sp
+DTSTAMP:20261126T174651Z
+LAST-MODIFIED:20261126T174651Z
+DTSTART:20261220T170000Z
+SUMMARY:Sunset White Party | Tom Keller\, Dre Guazzelli\, Daniel Laleska e 
+ mais Mii Rooftop
+LOCATION:São Paulo-SP
+DESCRIPTION:Compra de ingressos: https://www.ticket360.com.br/evento/34528/
+ ingressos-para-sunset-white-party-com-tom-keller-dre-guazzelli-daniel-lale
+ ska-e-mais\nAgenda de origem: https://agendaeletronica.com.br/
+URL:https://www.ticket360.com.br/evento/34528/ingressos-para-sunset-white-p
+ arty-com-tom-keller-dre-guazzelli-daniel-laleska-e-mais
+END:VEVENT
+BEGIN:VEVENT
+UID:8ca5098bd2983d13357ab36f@agendaeletronica-sp
+DTSTAMP:20261126T174651Z
+LAST-MODIFIED:20261126T174651Z
+DTSTART:20261225T020000Z
+SUMMARY:SP Christmas | Illusionize\, Departamento\, D-Nox\, Gabe e mais
+LOCATION:Sonora Garden\, São Paulo-SP
+DESCRIPTION:Compra de ingressos: https://duoticket.com.br/evento/8347\nAgen
+ da de origem: https://agendaeletronica.com.br/
+URL:https://duoticket.com.br/evento/8347
+END:VEVENT
+BEGIN:VEVENT
 UID:f5147381480820d8ca3fe5ba@agendaeletronica-sp
-DTSTAMP:20261122T152722Z
-LAST-MODIFIED:20261122T152722Z
+DTSTAMP:20261126T174651Z
+LAST-MODIFIED:20261126T174651Z
 DTSTART:20261228T180000Z
 SUMMARY:Isla Parador Ilhabela | Mochakk
 LOCATION:Sea Club Ilhabela\, Ilhabela-SP
@@ -255,8 +420,8 @@ URL:https://www.sympla.com.br/evento/isla-parador-ilhabela-28-dezembro-moch
 END:VEVENT
 BEGIN:VEVENT
 UID:983b0206eda9c9d9a23f81f9@agendaeletronica-sp
-DTSTAMP:20261122T152722Z
-LAST-MODIFIED:20261122T152722Z
+DTSTAMP:20261126T174651Z
+LAST-MODIFIED:20261126T174651Z
 DTSTART:20261228T190000Z
 SUMMARY:Parador Maresias — Réveillon
 LOCATION:Parador Maresias\, São Sebastião-SP
@@ -268,8 +433,8 @@ URL:https://www.sympla.com.br/evento/parador-maresias-reveillon-2027-pacote
 END:VEVENT
 BEGIN:VEVENT
 UID:4e3427dfdf8a7b057eaa0dc6@agendaeletronica-sp
-DTSTAMP:20261122T152722Z
-LAST-MODIFIED:20261122T152722Z
+DTSTAMP:20261126T174651Z
+LAST-MODIFIED:20261126T174651Z
 DTSTART:20261230T010000Z
 SUMMARY:Abertura Verão | Victor Lou | Cafe de La Musique Ubatuba
 LOCATION:Cafe de La Musique Ubatuba\, Ubatuba-SP
@@ -281,8 +446,8 @@ URL:https://www.sympla.com.br/evento/abertura-verao-victor-lou-cafe-de-la-m
 END:VEVENT
 BEGIN:VEVENT
 UID:cb16b643289cb85c0d0e5b1f@agendaeletronica-sp
-DTSTAMP:20261122T152722Z
-LAST-MODIFIED:20261122T152722Z
+DTSTAMP:20261126T174651Z
+LAST-MODIFIED:20261126T174651Z
 DTSTART:20261230T130000Z
 SUMMARY:ReveillOz 2026/2027 Aldeia Outro Mundo | Lagoinha-SP
 LOCATION:São Paulo-SP
@@ -294,8 +459,8 @@ URL:https://aldeiaticket.com.br/tickets/019e83fe-b67a-7efc-b074-266edd528ce
 END:VEVENT
 BEGIN:VEVENT
 UID:b23ab82632e61fce8882bd2b@agendaeletronica-sp
-DTSTAMP:20261122T152722Z
-LAST-MODIFIED:20261122T152722Z
+DTSTAMP:20261126T174651Z
+LAST-MODIFIED:20261126T174651Z
 DTSTART:20261231T010000Z
 SUMMARY:Pré-Réveillon | Cat Dealers | Cafe de La Musique Ubatuba
 LOCATION:Cafe de La Musique Ubatuba\, Ubatuba-SP
@@ -307,8 +472,8 @@ URL:https://www.sympla.com.br/evento/pre-reveillon-cat-dealers-cafe-de-la-m
 END:VEVENT
 BEGIN:VEVENT
 UID:099ab50b44b17fe1d34a942a@agendaeletronica-sp
-DTSTAMP:20261122T152722Z
-LAST-MODIFIED:20261122T152722Z
+DTSTAMP:20261126T174651Z
+LAST-MODIFIED:20261126T174651Z
 DTSTART:20261231T130000Z
 SUMMARY:Réveillon Festival 2027 Hotel Estância Nazaré Paulista
 LOCATION:Nazaré Paulista-SP
@@ -318,8 +483,8 @@ URL:https://zig.tickets/eventos/reveillon-festival
 END:VEVENT
 BEGIN:VEVENT
 UID:efb7eb637b0c1e2cb9c4b856@agendaeletronica-sp
-DTSTAMP:20261122T152722Z
-LAST-MODIFIED:20261122T152722Z
+DTSTAMP:20261126T174651Z
+LAST-MODIFIED:20261126T174651Z
 DTSTART:20261231T220000Z
 SUMMARY:Laroc Réveillon 2027 | ARTBAT
 LOCATION:Laroc Club\, Valinhos-SP
@@ -329,8 +494,8 @@ URL:https://www.ingresse.com/laroc-reveillon-2027-feat-artbat/
 END:VEVENT
 BEGIN:VEVENT
 UID:aa64f9cb7d289f75cee03c15@agendaeletronica-sp
-DTSTAMP:20261122T152722Z
-LAST-MODIFIED:20261122T152722Z
+DTSTAMP:20261126T174651Z
+LAST-MODIFIED:20261126T174651Z
 DTSTART:20261231T230000Z
 SUMMARY:Laroc Guarujá Réveillon 2027 | Mau P
 LOCATION:Laroc Club Guarujá\, Guarujá-SP
@@ -340,9 +505,33 @@ DESCRIPTION:Compra de ingressos: https://ingresse.com/laroc-guaruja-apresen
 URL:https://ingresse.com/laroc-guaruja-apresenta-reveillon-2027-feat-mau-p/
 END:VEVENT
 BEGIN:VEVENT
+UID:a711a837d9181b582f9d6c21@agendaeletronica-sp
+DTSTAMP:20261126T174651Z
+LAST-MODIFIED:20261126T174651Z
+DTSTART:20261231T230000Z
+SUMMARY:Réveillon Lá Nuit | Chemical Surf e Dre Guazzelli Casa Aragon
+LOCATION:São Paulo-SP
+DESCRIPTION:Compra de ingressos: https://www.sympla.com.br/evento/reveillon
+ -la-nuit-2027-chemical-surf-dre-guazzelli-casa-aragon-open-bar-premium-sao
+ -paulo/3537648\nAgenda de origem: https://agendaeletronica.com.br/
+URL:https://www.sympla.com.br/evento/reveillon-la-nuit-2027-chemical-surf-d
+ re-guazzelli-casa-aragon-open-bar-premium-sao-paulo/3537648
+END:VEVENT
+BEGIN:VEVENT
+UID:f445c20a7ab703cdc98c0917@agendaeletronica-sp
+DTSTAMP:20261126T174651Z
+LAST-MODIFIED:20261126T174651Z
+DTSTART:20270101T010000Z
+SUMMARY:D-EDGE SP | Réveillon 2026/2027 D-EDGE
+LOCATION:São Paulo-SP
+DESCRIPTION:Compra de ingressos: https://www.ingresse.com/d-edge-sp-reveill
+ on-2026-2027/\nAgenda de origem: https://agendaeletronica.com.br/
+URL:https://www.ingresse.com/d-edge-sp-reveillon-2026-2027/
+END:VEVENT
+BEGIN:VEVENT
 UID:de72b438afccfbebda5d1a2e@agendaeletronica-sp
-DTSTAMP:20261122T152722Z
-LAST-MODIFIED:20261122T152722Z
+DTSTAMP:20261126T174651Z
+LAST-MODIFIED:20261126T174651Z
 DTSTART:20270101T010000Z
 SUMMARY:Isla Parador Ilhabela | Réveillon 2027 com Ashibah e Bruno Be
 LOCATION:Sea Club Ilhabela\, Ilhabela-SP
@@ -353,9 +542,21 @@ URL:https://www.sympla.com.br/evento/isla-parador-ilhabela-reveillon-2027-3
  1-12-ashibah-bruno-be/3522600
 END:VEVENT
 BEGIN:VEVENT
+UID:01912e486e57e720f81f68a4@agendaeletronica-sp
+DTSTAMP:20261126T174651Z
+LAST-MODIFIED:20261126T174651Z
+DTSTART:20270102T150000Z
+SUMMARY:Cafe de La Musique On Tour | Victor Lou\, Fatsync\, Dre Guazzelli e
+  mais Sea Club
+LOCATION:Ilhabela-SP
+DESCRIPTION:Compra de ingressos: https://articket.com.br/e/7397/cafe-de-la-
+ musique-on-tour\nAgenda de origem: https://agendaeletronica.com.br/
+URL:https://articket.com.br/e/7397/cafe-de-la-musique-on-tour
+END:VEVENT
+BEGIN:VEVENT
 UID:aee084580d91f2b40f01f307@agendaeletronica-sp
-DTSTAMP:20261122T152722Z
-LAST-MODIFIED:20261122T152722Z
+DTSTAMP:20261126T174651Z
+LAST-MODIFIED:20261126T174651Z
 DTSTART:20270110T010000Z
 SUMMARY:Desconto After Day Festival c/ Volac\, Amine Edge\, Tim Baresko\, A
  bbud e mais
@@ -368,8 +569,8 @@ URL:https://www.sympla.com.br/evento/after-day-festival--09012027/3635683?d
 END:VEVENT
 BEGIN:VEVENT
 UID:14033ab5d7fbe00b968a5257@agendaeletronica-sp
-DTSTAMP:20261122T152722Z
-LAST-MODIFIED:20261122T152722Z
+DTSTAMP:20261126T174651Z
+LAST-MODIFIED:20261126T174651Z
 DTSTART:20270122T210000Z
 SUMMARY:Hi-Tech Revolution 2027 Aldeia Outro Mundo | Lagoinha-SP
 LOCATION:São Paulo-SP
@@ -380,9 +581,20 @@ URL:https://aldeiaticket.com.br/tickets/01977f88-2089-770f-93c1-7654d663193
  7
 END:VEVENT
 BEGIN:VEVENT
+UID:b54cb24262e01121f4041e94@agendaeletronica-sp
+DTSTAMP:20261126T174651Z
+LAST-MODIFIED:20261126T174651Z
+DTSTART:20270130T020000Z
+SUMMARY:Indústria | Vini Vici
+LOCATION:High Club\, São Paulo-SP
+DESCRIPTION:Compra de ingressos: https://www.clubedoingresso.com/evento/ind
+ ustria-vinivici\nAgenda de origem: https://agendaeletronica.com.br/
+URL:https://www.clubedoingresso.com/evento/industria-vinivici
+END:VEVENT
+BEGIN:VEVENT
 UID:84cf694a23ba1bd4af23a73f@agendaeletronica-sp
-DTSTAMP:20261122T152722Z
-LAST-MODIFIED:20261122T152722Z
+DTSTAMP:20261126T174651Z
+LAST-MODIFIED:20261126T174651Z
 DTSTART:20270130T210000Z
 SUMMARY:Shanti
 LOCATION:Santa Helena Eventos e Lazer\, Mairiporã-SP
@@ -392,8 +604,8 @@ URL:https://zig.tickets/eventos/shanti-festival-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:743b3e1efed3fd6dd43cf9df@agendaeletronica-sp
-DTSTAMP:20261122T152722Z
-LAST-MODIFIED:20261122T152722Z
+DTSTAMP:20261126T174651Z
+LAST-MODIFIED:20261126T174651Z
 DTSTART:20270221T110000Z
 SUMMARY:Carnatrance 019 Chácara Frezzarin
 LOCATION:Sumaré-SP
@@ -403,8 +615,8 @@ URL:https://www.santocartao.com.br/carnatrance019
 END:VEVENT
 BEGIN:VEVENT
 UID:87e6f0e7cd5ad6dd1fbcfe08@agendaeletronica-sp
-DTSTAMP:20261122T152722Z
-LAST-MODIFIED:20261122T152722Z
+DTSTAMP:20261126T174651Z
+LAST-MODIFIED:20261126T174651Z
 DTSTART:20270313T170000Z
 SUMMARY:Flor da Vida
 LOCATION:Fazenda Meia Lua\, Itirapina-SP
@@ -416,8 +628,8 @@ URL:https://ticketimediato.com/product/details/flor-da-vida-2027---10-anos.
 END:VEVENT
 BEGIN:VEVENT
 UID:0b2b0ede3105d6d45baa44d6@agendaeletronica-sp
-DTSTAMP:20261122T152722Z
-LAST-MODIFIED:20261122T152722Z
+DTSTAMP:20261126T174651Z
+LAST-MODIFIED:20261126T174651Z
 DTSTART:20270410T010000Z
 SUMMARY:Gop Tun Festival 2027 Mercado Livre Arena Pacaembu
 LOCATION:São Paulo-SP
@@ -426,9 +638,20 @@ DESCRIPTION:Compra de ingressos: https://www.ingresse.com/gop-tun-festival-
 URL:https://www.ingresse.com/gop-tun-festival-2027/
 END:VEVENT
 BEGIN:VEVENT
+UID:e211d789a30df174e58f62f0@agendaeletronica-sp
+DTSTAMP:20261126T174651Z
+LAST-MODIFIED:20261126T174651Z
+DTSTART:20270417T160000Z
+SUMMARY:Mushroom Hotel Estância Nazaré Paulista
+LOCATION:Nazaré Paulista-SP
+DESCRIPTION:Compra de ingressos: https://zig.tickets/evento/mushroom-world-
+ festival-2027\nAgenda de origem: https://agendaeletronica.com.br/
+URL:https://zig.tickets/evento/mushroom-world-festival-2027
+END:VEVENT
+BEGIN:VEVENT
 UID:bb5c0908c804a65ae45e8c91@agendaeletronica-sp
-DTSTAMP:20261122T152722Z
-LAST-MODIFIED:20261122T152722Z
+DTSTAMP:20261126T174651Z
+LAST-MODIFIED:20261126T174651Z
 DTSTART:20270501T170000Z
 SUMMARY:Iara Festival | 1ª edição Sítio Quero-Quero | Suzano-SP
 LOCATION:São Paulo-SP
@@ -440,8 +663,8 @@ URL:https://ticketimediato.com/product/details/iara-festival.html?productId
 END:VEVENT
 BEGIN:VEVENT
 UID:3cbf0d0a409c0e2a37466054@agendaeletronica-sp
-DTSTAMP:20261122T152722Z
-LAST-MODIFIED:20261122T152722Z
+DTSTAMP:20261126T174651Z
+LAST-MODIFIED:20261126T174651Z
 DTSTART:20270528T190000Z
 SUMMARY:Só Track Boa Festival 2027
 LOCATION:São Paulo-SP
@@ -451,8 +674,8 @@ URL:https://www.ingresse.com/so-track-boa-2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:ef4edda0fe3cb8308b065947@agendaeletronica-sp
-DTSTAMP:20261122T152722Z
-LAST-MODIFIED:20261122T152722Z
+DTSTAMP:20261126T174651Z
+LAST-MODIFIED:20261126T174651Z
 DTSTART:20270925T180000Z
 SUMMARY:Anaya Festival 2027
 LOCATION:Santa Helena Eventos e Lazer\, Mairiporã-SP
